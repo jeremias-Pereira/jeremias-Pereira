@@ -1,4 +1,4 @@
-Ola Me Chamo**jeremias**.
+Ola Me Chamo **jeremias**.
 
 Tenho Interesse em Desenvolvimento Android, Linux, Python
 
